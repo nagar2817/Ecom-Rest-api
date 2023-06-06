@@ -1,7 +1,7 @@
 {
-  "name": "Restful ecom api",
+  "name": "restful-ecom-api",
   "version": "1.0.0",
-  "description": "An ecommerce rest api using mongodb and expressjs",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest",
