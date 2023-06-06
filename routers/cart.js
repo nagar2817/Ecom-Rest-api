@@ -105,3 +105,4 @@ router.delete("/cart/", Auth, async (req, res) => {
     }
 });
   
+module.exports = router

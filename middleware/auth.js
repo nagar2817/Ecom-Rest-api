@@ -16,4 +16,5 @@ const auth = async(req, res, next) => {
     res.status(401).send({error: "Authentication required"})
      }
     }
-    module.exports = auth
+   
+module.exports = auth

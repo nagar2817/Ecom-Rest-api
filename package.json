@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce-api",
+  "name": "RESTful Ecom API",
   "version": "1.0.0",
   "description": "An Ecommerce Rest api using mongodb & ExpressJS",
   "main": "app.js",
@@ -12,7 +12,7 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.5",
+    "mongoose": "^6.11.1",
     "validator": "^13.6.0"
   },
   "devDependencies": {
@@ -22,6 +22,3 @@
   "author": "",
   "license": "ISC"
 }
-
-
-  
