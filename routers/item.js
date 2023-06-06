@@ -1,7 +1,6 @@
 const express = require('express')
 const Item = require('../models/item')
 const Auth = require('../middleware/auth')
-const Item = require('../models/item')
 const router = new express.Router()
 
 // create an item
